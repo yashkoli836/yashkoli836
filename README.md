@@ -52,7 +52,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkoli836&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashkoli836&show_icons=true&theme=radical&hide_rank=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkoli836&theme=radical" alt="GitHub streak" />
 </p>
 
