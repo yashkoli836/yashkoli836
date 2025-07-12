@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=yashkoli836&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-- 🌱 I’m currently learning **GitHub Copilot, AI, and more**
+- 🌱 I’m currently learning **Backend, AI, and more**
 - 💬 Ask me about **Python, JavaScript, and web development**
 - 📫 How to reach me: yashkoli836@example.com
 
