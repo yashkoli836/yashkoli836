@@ -65,6 +65,4 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashkoli836&theme=darkhub" alt="Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=yashkoli836&theme=darkhub&title=MultiLanguage,Repositories,Experience,Commits" />
