@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Koli</h1>
+<h1 align="center">Hi 👋, I'm Yash Mahor</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashkoli836&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
