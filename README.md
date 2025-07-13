@@ -7,7 +7,7 @@
 - 💬 Ask me about **Python, JavaScript, and web development**
 - 📫 How to reach me: yashkoli836@gmail.com
 
-  ---
+  
 
 ## 📫 Connect with me
 
