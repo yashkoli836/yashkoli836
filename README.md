@@ -5,7 +5,19 @@
 
 - 🌱 I’m currently learning **Backend, AI, and more**
 - 💬 Ask me about **Python, JavaScript, and web development**
-- 📫 How to reach me: yashkoli836@example.com
+- 📫 How to reach me: yashkoli836@gmail.com
+
+  ---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmahor/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashkoli836)
+
+---
+
+> “Always learning, always building.” 🚀
+
 
 ---
 
@@ -63,6 +75,7 @@
 </p>
 
 ---
+
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=yashkoli836&theme=darkhub&title=MultiLanguage,Repositories,Experience,Commits" />
